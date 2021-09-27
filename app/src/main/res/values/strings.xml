@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Bit Brothers</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="about_company">
+        Bit Brother Limited operates as a specialty chemical company. The Company specializes in producing and distributing organic compounds.
+        Bit Brothers products are used in the automotive, pharmaceutical, agrochemical, dye and pigments, aerospace, ceramics, coating-printing, clean energy, and food additive industries.
+    </string>
+</resources>

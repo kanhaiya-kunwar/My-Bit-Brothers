@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "884632380670",
+    "project_id": "my-bit-brothers",
+    "storage_bucket": "my-bit-brothers.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:884632380670:android:1a4c720dd1b67b97ab31af",
+        "android_client_info": {
+          "package_name": "com.example.mybitbrothers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "884632380670-br5n9j9ghlepmoih6bk2u62laigf6r2q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3ZbJGvqLlOEIECfamnThlGXOCFi9BgjQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "884632380670-br5n9j9ghlepmoih6bk2u62laigf6r2q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
