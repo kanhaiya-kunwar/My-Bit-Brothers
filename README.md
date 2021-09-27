@@ -1,2 +1,2 @@
 # My-Bit-Brothers
-Apk file of my bit brother android appliation given below
+Apk file of my bit brother android appliation given in application components
